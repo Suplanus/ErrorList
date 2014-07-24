@@ -1,0 +1,11 @@
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\bin\Debug\ErrorList.dll
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\bin\Debug\ErrorList.pdb
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorList_MarkupCompile.cache
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorList.g.resources
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorList.Properties.Resources.resources
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorList.csproj.GenerateResource.Cache
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorList.dll
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorList.pdb
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorListControl.baml
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\ErrorListControl.g.cs
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Debug\Resources\ToggleButton.baml

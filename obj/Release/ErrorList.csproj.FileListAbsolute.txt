@@ -1,0 +1,10 @@
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\bin\Release\ErrorList.dll
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\bin\Release\ErrorList.pdb
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList.baml
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList.g.cs
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList_MarkupCompile.cache
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList.g.resources
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList.Properties.Resources.resources
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList.csproj.GenerateResource.Cache
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList.dll
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorList\obj\Release\ErrorList.pdb
