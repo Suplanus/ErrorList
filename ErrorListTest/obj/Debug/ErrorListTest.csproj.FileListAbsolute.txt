@@ -1,0 +1,32 @@
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\MainWindow.baml
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\App.g.cs
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.csproj.GenerateResource.Cache
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\bin\Debug\ErrorList.pdb
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\App.baml
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.csprojResolveAssemblyReference.cache
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\bin\Debug\ErrorListTest.exe.config
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\bin\Debug\ErrorListTest.exe
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\bin\Debug\ErrorListTest.pdb
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\bin\Debug\ErrorList.dll
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\ErrorListTest_MarkupCompile.cache
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.g.resources
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.Properties.Resources.resources
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.exe
+C:\Dropbox\Coding\DOT-NET\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.pdb
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\bin\Debug\ErrorListTest.exe.config
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.exe
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.pdb
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\bin\Debug\ErrorListTest.exe
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\bin\Debug\ErrorListTest.pdb
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\bin\Debug\ErrorList.dll
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\bin\Debug\ErrorList.pdb
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.csprojResolveAssemblyReference.cache
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\MainWindow.baml
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\App.baml
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\MainWindow.g.cs
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\App.g.cs
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\ErrorListTest_MarkupCompile.cache
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.g.resources
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.Properties.Resources.resources
+C:\Users\weiher johann.SPANGLER\Documents\GitHub\ErrorList\ErrorListTest\obj\Debug\ErrorListTest.csproj.GenerateResource.Cache

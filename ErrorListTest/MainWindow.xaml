@@ -19,7 +19,7 @@
             <StackPanel HorizontalAlignment="Center"  Orientation="Horizontal" Margin="5">
                 <Button Name="btnAddSampleData" Margin="2" Height="24" Width="100" Click="BtnAddSampleData_OnClick">Add samples</Button>
                 <Button Name="btnRemoveSampleData" Margin="2" Height="24" Width="100" Click="BtnRemoveSampleData_OnClick">Remove samples</Button>
-
+                <Image Name="imgTest" Width="16" Height="16"></Image>
             </StackPanel>
         </Border>
 
