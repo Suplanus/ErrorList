@@ -1,0 +1,32 @@
+﻿<Window x:Class="ErrorListTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:errorList="clr-namespace:ErrorList;assembly=ErrorList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowStartupLocation="CenterScreen"
+        TextOptions.TextFormattingMode="Display"
+        UseLayoutRounding="True"
+        >
+    <Window.Resources>
+
+
+
+    </Window.Resources>
+    <DockPanel>
+        <Border DockPanel.Dock="Top" BorderThickness="0,0,0,1" Width="Auto" BorderBrush="Gray">
+            <StackPanel HorizontalAlignment="Center"  Orientation="Horizontal" Margin="5">
+                <Button Name="btnAddSampleData" Margin="2" Height="24" Width="100" Click="BtnAddSampleData_OnClick">Add samples</Button>
+                <Button Name="btnRemoveSampleData" Margin="2" Height="24" Width="100" Click="BtnRemoveSampleData_OnClick">Remove samples</Button>
+
+            </StackPanel>
+        </Border>
+
+
+        <Grid>
+            <errorList:ErrorListControl x:Name="errorList" Margin="5" />
+        </Grid>
+
+    </DockPanel>
+</Window>
